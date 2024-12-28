@@ -26,13 +26,11 @@ seo:
 ## Useful Links
 
 - [Ed discussion board](https://edstem.org/us/courses/32322/discussion/)
-  for registered participants
-- This course's [Canvas page](https://canvas.uw.edu/courses/1610962)
-- [Submit an answer to a live poll during lecture](https://forms.gle/PvxEicoPEdVEBJQC7)
-- [Request a private follow-up from course staff](https://forms.gle/HrTwSfcvbTnfWoBV6) 
-- Guide to computing infrastructure
-- [Petition for an add code](https://forms.gle/8PYc2DF5ksp6o8E7A) to be submitted after you've completed and graded [Assignment 0](https://github.com/nasmith/NLP-winter23/blob/main/assets/docs/A0.pdf)
-  (closed at 5pm Pacific time on January 6)
+  for registered participants (TODO)
+- This course's [Canvas page](https://canvas.uw.edu/courses/1782195)
+- [Submit an answer to a live poll during lecture](https://forms.gle/3LhzSSd1hp61TKQN8)
+- [Request a private follow-up from course staff]([https://forms.gle/HrTwSfcvbTnfWoBV6](https://nasmith.github.io/NLP-winter25/followup/) 
+- Guide to computing infrastructure (TODO)
 
 
 
@@ -40,6 +38,3 @@ seo:
 
 This site was built using [Kevin Lin](https://kevinl.info/about/)'s package [Just the Class](https://github.com/kevinlin1/just-the-class), which is built on [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
 
-
-
-## Ignore the rest of this; to be deleted
