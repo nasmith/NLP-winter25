@@ -88,4 +88,4 @@ The project is worth 50% of your course grade, allocated as follows:
 - Version 1 is worth 25% of the project grade, 12.5% of the course grade.
 - Version 2 is worth 65% of the project grade, 32.5% of the course grade.
 
-You can find the grading rubric [here](project-517-rubric).
+You can find the grading rubric [here](project-517-rubric.md).
