@@ -51,7 +51,7 @@ Well before the version 1 deadline, it would be useful for your group to put tog
 
 Detailed instructions for the report are given in the [latex template](https://nasmith.github.io/NLP-winter22/assets/templates/project-517.tgz).   It is imperative that you follow the instructions in the template carefully for versions 1 and 2; it is strongly recommended that you familiarize yourself with the template before writing the proposal. 
 
-The \textbf{deadlines for each deliverable are shown on the [course calendar](calendar).
+The \textbf{deadlines for each deliverable are shown on the [course calendar](calendar.md).
 
 ### Proposal
 
