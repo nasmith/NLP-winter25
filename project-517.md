@@ -75,7 +75,7 @@ For  version 1 (due around week 6), you need only complete the following section
 For the final report (due at the end of the quarter), all sections in the template must be filled in.
 
 Please note:
-- \item Grades are shared by your team. Students in this course are expected to work together professionally, overcoming the inevitable challenges that arise in the course of a team project.  We recognize that, occasionally, team members behave unreasonably.  To help us navigate situations where you feel a shared grade would be unfair, we invite you to submit individual updates on your team's progress at any time during the quarter using [this form](https://forms.gle/XMzbD9tkhZ5qEcvS8).
+- Grades are shared by your team. Students in this course are expected to work together professionally, overcoming the inevitable challenges that arise in the course of a team project.  We recognize that, occasionally, team members behave unreasonably.  To help us navigate situations where you feel a shared grade would be unfair, we invite you to submit individual updates on your team's progress at any time during the quarter using [this form](https://forms.gle/XMzbD9tkhZ5qEcvS8).
 - No late submissions are allowed. Your team will receive zero points for the late submission.
 - Instead of submitting code, set it up as a public Github repository and add the link to the project report.  If writing your own code, make sure it is documented and easy to use (this project is about reproducibility!). Include a link to a github repository which can be installed and run with a few lines in bash on department machines. Include a description of how difficult the algorithms were to implement.  If using public code from the original repository, more of your energy will go into running additional experiments, such as hyperparameter optimization, ablations, or evaluation on new datasets (see below).  However, note that it’s not always trivial to get a public code release working!
 - You may include an appendix in your final report. However, you should include all the important details in the main paper. The appendix is allowed so that your report will be helpful to future researchers; it will not be read by the course staff.
@@ -83,32 +83,9 @@ Please note:
 
 ## Grades
 
-The project is worth 50\% of your course grade, allocated as follows:
-- The proposal is worth 10\% of the project grade, 5\% of the course grade.
-- Version 1 is worth 25\% of the project grade, 12.5\% of the course grade.
-- Version 2 is worth 65\% of the project grade, 32.5\% of the course grade.
+The project is worth 50% of your course grade, allocated as follows:
+- The proposal is worth 10% of the project grade, 5% of the course grade.
+- Version 1 is worth 25% of the project grade, 12.5% of the course grade.
+- Version 2 is worth 65% of the project grade, 32.5% of the course grade.
 
-### Rubric
-
-#### Proposal (5pt)
-You need to have all of five items listed in the project instructions (citation to the original paper, hypotheses to be tested, description of how you will access the data, whether you will use the existing code or not, a discussion of the feasibility of the computation).
-- -1pt for each item that is missing
-- -1pt if it is over 1p
-
-#### Version 1 (10pt)
-You will follow the final report template and fill out the sections. Some sections have to be filled in (list below; this is to ensure that you are in the progress), but the rest of the sections do not have to be completed. For sections that are not completed, you should write a placeholder (e.g. “TODO”) to indicate that you will complete the section in the final report.
-- Completion of the following sections (8pt)
- - Introduction (2pt)
- - Scope of reproducibility (2pt)
- - Methodology
-  - Model description (1pt)
-  - Data description (1pt)
-  - Implementation - you can only indicate whether you will use the existing code or use
-your own implementation (1pt)
-  - Computational requirements - you can only include the estimation (1pt)
-- A placeholder for all sections that are not completed (2pt)
-
-
-
-
-
+You can find the grading rubric [here](project-517-rubric).
