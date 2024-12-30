@@ -45,7 +45,7 @@ At each checkpoint, you will turn in all source code and an executable program o
 We’ll check that your program runs to spec (no error or processing speed measurements).  You’re graded only on turning in the program on time and running to spec. You must also submit a short document that contains the following:
   1. Dataset: what kind of data are you going to use to train your model, and how will you obtain this data?
   2. Method: what kind of method will you use, and how will you implement it (e.g. language, framework)?
-2. **Around week 6}**.
+2. **Around week 6**.
 We’ll check that your program runs to spec, and we’ll measure error and processing time (and report them back to you along with your rank among teams in the class on both measurements).  You’re graded only on turning in the program on time and running to spec, but your team will get a bonus point if your system is on the Pareto frontier (i.e., there may be systems with lower error or lower processing time than yours, but no system with both).
 3. **Around week 8**.  Exactly like checkpoint 2, but for full credit you must show improvement over your checkpoint 2 measurements (either a reduction in error rate or a reduction in processing time, or both).  
 4. **Around week 10**. Final deadline.  The course staff will give up to three bonus points to systems on the Pareto frontier (i.e., there may be systems with lower error or lower processing time than yours, but no system with both). 
