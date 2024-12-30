@@ -70,8 +70,8 @@ NLP is now being deployed in exciting new settings, e.g., code generation.  In t
 
 Details on the project are given in the instructions document below.  Project deliverables must be turned in on time; there will be zero credit for late submissions.  **Project deadlines are shown on the [course calendar](../calendar).**
 
-- [CSE 447 project instructions](assets/docs/project-447.pdf)  (TODO)
-- [CSE 517 project instructions](project-517.md) and [latex template](assets/templates/project-517.tgz) (TODO)
+- [CSE 447 project instructions](project-447.md)  
+- [CSE 517 project instructions](project-517.md) and [latex template](assets/templates/project-517.tgz)
 - [Individual project updates](https://forms.gle/BGaqPdvNeLB6AnUh8)
 
 ## Computing
