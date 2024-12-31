@@ -1,23 +1,15 @@
 ---
-title: Introduction to Java
+title: What is NLP for, and what does success look like?
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Jan 6
+: Introduction
+  : [Assignment 0](../assets/docs/A0.pdf) posted; read, sign, and submit (through Canvas) the
+  [academic integrity document](../assets/docs/academic-integrity.pdf)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Jan 8
+: Case study on question answering
+  : [J&M 14 intro, 14.1, 14.4](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Jan 9
+: **Section**{: .label .label-purple }TBD
