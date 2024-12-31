@@ -1,23 +1,24 @@
 ---
-title: Basic Data Structures
+title: Input-focused NLP: classifying text
+
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Jan 13
+: Basics of classification, multinomial logistic regression, evaluation
+  : Read  [J&M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf); [Assignment 1](https://nasmith.github.io/NLP-winter25/assets/docs/A1.pdf) posted
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
+Jan 15
+: Neural networks
+  : Read [J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
+Jan 16
+: **Section**{: .label .label-purple }TBD
 
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
+Jan 20
+: *Holiday; no lecture*
+  : [Assignment 2](https://nasmith.github.io/NLP-winter25/assets/docs/A2.pdf) posted
 
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Jan 22
+: Classification tasks and data
+  : Read [J&M 4 intro, 4.7, 4.8](https://web.stanford.edu/~jurafsky/slp3/4.pdf) **[Assignment 1](https://nasmith.github.io/NLP-winter25/assets/docs/A1.pdf) due**
+
