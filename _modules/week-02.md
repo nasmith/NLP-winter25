@@ -1,5 +1,5 @@
 ---
-title: Input-focused NLP: classifying text
+title: Input-focused NLP -- classifying text
 ---
 
 Jan 13
