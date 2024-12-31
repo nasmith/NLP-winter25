@@ -11,7 +11,7 @@ W Jan 15
   : Read [J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
 Th Jan 16
-: **Section**{: .label .label-purple }TBD
+: **Section**{: .label .label-purple }TBD (possibly discuss PyTorch)
 
 M Jan 20
 : *Holiday; no lecture*
@@ -22,4 +22,4 @@ W Jan 22
   : Read [J&M 4 intro, 4.7, 4.8](https://web.stanford.edu/~jurafsky/slp3/4.pdf) **[Assignment 1](../assets/docs/A1.pdf) due**{: .label .label-red }
 
 Th Jan 23
-: **Section**{: .label .label-purple }TBD
+: **Section**{: .label .label-purple }TBD (possibly review A1)
