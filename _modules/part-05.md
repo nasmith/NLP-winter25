@@ -11,7 +11,7 @@ W Feb 12
   : Read [J&M 13 through 13.3](https://web.stanford.edu/~jurafsky/slp3/13.pdf); **[Assignment 3](../assets/docs/A3.pdf) due**{: .label .label-red }
 
 Th Feb 13
-: **Section**{: .label .label-purple }TBD
+: **Section**{: .label .label-purple }TBD (possibly review A3)
 
 M Feb 17
 : *Holiday; no lecture*
@@ -21,7 +21,7 @@ W Feb 19
   : Read [J&M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf); **[Assignment 4](../assets/docs/A4.pdf) due**{: .label .label-red }
 
 Th Feb 20
-: **Section**{: .label .label-purple }TBD
+: **Section**{: .label .label-purple }TBD (possibly review A4)
 
 M Feb 24
 : Decoding
@@ -43,4 +43,4 @@ W Mar 5
   : Read [J&M 12](https://web.stanford.edu/~jurafsky/slp3/12.pdf);  **[Assignment 5](../assets/docs/A5.pdf) due**{: .label .label-red }
 
 Th Mar 6
-: **Section**{: .label .label-purple }TBD
+: **Section**{: .label .label-purple }TBD (possibly review A5)
