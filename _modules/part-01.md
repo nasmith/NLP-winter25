@@ -12,4 +12,4 @@ W Jan 8
   : [J&M 14 intro, 14.1, 14.4](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
 
 Th Jan 9
-: **Section**{: .label .label-purple }TBD
+: **Section**{: .label .label-purple }TBD (possibly discuss A0)
