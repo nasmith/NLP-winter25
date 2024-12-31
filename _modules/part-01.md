@@ -8,7 +8,7 @@ M Jan 6
   [academic integrity document](../assets/docs/academic-integrity.pdf)
 
 W Jan 8
-: Case study on question answering
+: Case study on question answering ([slides](https://docs.google.com/presentation/d/1UUgDto4bHrvyU5sO3yALyFs97RADeeiRqMGLzJnKTXU/edit?usp=sharing))
   : [J&M 14 intro, 14.1, 14.4](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
 
 Th Jan 9
