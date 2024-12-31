@@ -19,5 +19,5 @@ Jan 20
 
 Jan 22
 : Classification tasks and data
-  : Read [J&M 4 intro, 4.7, 4.8](https://web.stanford.edu/~jurafsky/slp3/4.pdf) **[Assignment 1](https://nasmith.github.io/NLP-winter25/assets/docs/A1.pdf) due**
+  : Read [J&M 4 intro, 4.7, 4.8](https://web.stanford.edu/~jurafsky/slp3/4.pdf) **[Assignment 1](https://nasmith.github.io/NLP-winter25/assets/docs/A1.pdf) due**{: .label .label-red }
 
