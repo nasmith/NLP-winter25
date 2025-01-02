@@ -25,8 +25,8 @@ seo:
 
 ## Useful Links
 
-- [Ed discussion board](https://edstem.org/us/courses/32322/discussion/)
-  for registered participants (TODO)
+- [Ed discussion board](https://edstem.org/us/courses/70783/discussion)
+  for registered participants 
 - This course's [Canvas page](https://canvas.uw.edu/courses/1782195)
 - [Submit an answer to a live poll during lecture](https://forms.gle/3LhzSSd1hp61TKQN8)
 - [Request a private follow-up from course staff]([https://forms.gle/HrTwSfcvbTnfWoBV6](https://nasmith.github.io/NLP-winter25/followup/) 
