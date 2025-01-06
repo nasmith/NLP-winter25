@@ -19,7 +19,7 @@ seo:
 
 ## Coordinates
 - Lectures are Mondays and Wednesdays, 2:30pm to 3:50pm, in [Savery]([https://www.washington.edu/classroom/CSE2+G01](https://www.washington.edu/maps/#!/SAV)) 260.
-- Noah's office hours (TBD).
+- Noah's office hours (Wednesdays 4pm in CSE 588).
 - Teaching Assistant office hours (TBD).
 - Remember that you can always [request an appointment](https://nasmith.github.io/NLP-winter25/followup/) if the scheduled office hours don't work for you.
 
