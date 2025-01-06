@@ -3,7 +3,7 @@ title: What is NLP for, and what does success look like?
 ---
 
 M Jan 6
-: Introduction
+: Introduction ([slides](https://docs.google.com/presentation/d/1unOUYMNU7aa1bJTXWYuJ68oTiH48y1E1LGvj5gl__ps/edit?usp=sharing))
   : [Assignment 0](../assets/docs/A0.pdf) posted; read, sign, and submit (through Canvas) the
   [academic integrity document](../assets/docs/academic-integrity.pdf)
 
