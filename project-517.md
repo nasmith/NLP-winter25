@@ -32,7 +32,8 @@ Some considerations in choosing a paper to reproduce:
 - You should find the problem tackled in the paper interesting.
 - You should be able to access the data you will need to reproduce the paper’s experiments.
 - In many cases, the authors may have made code available; this may be a blessing or a curse.  You should definitely peruse a paper’s codebase before deciding on that paper.
-- You should estimate the computational requirements for reproducing the paper and take into account the resources available to you for the project. Some authors will have had access to infrastructure that is way out of your budget; don’t choose such a paper.  
+- You should estimate the computational requirements for reproducing the paper and take into account the resources available to you for the project. Some authors will have had access to infrastructure that is way out of your budget; don’t choose such a paper.
+- Do not choose a paper you co-authored or whose authors are collaborators of anyone on your team.
 
 Some potentially useful links:
 - [Reproducibility checklist from recent NeurIPS](https://neurips.cc/Conferences/2021/PaperInformation/PaperChecklist), used as part of the reviewing process for that conference
