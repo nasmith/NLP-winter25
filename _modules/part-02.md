@@ -3,7 +3,7 @@ title: Input-focused NLP -- classifying text
 ---
 
 M Jan 13
-: Basics of classification, multinomial logistic regression, evaluation
+: Basics of classification, multinomial logistic regression, evaluation ([slides](https://docs.google.com/presentation/d/1lSJZcajzkyuyWgOGhGOgxKG161IBbwKqZ0zD_T7HSjA/edit?usp=sharing))
   : Read  [J&M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf); [Assignment 1](..assets/docs/A1.pdf) posted
 
 W Jan 15
