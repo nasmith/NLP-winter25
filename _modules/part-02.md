@@ -8,7 +8,7 @@ M Jan 13
 
 W Jan 15
 : Neural networks
-  : Read [J&M 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
+  : Read [J&M 7 through 7.5](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
 Th Jan 16
 : **Section**{: .label .label-purple }TBD (possibly discuss PyTorch)
