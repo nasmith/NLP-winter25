@@ -76,7 +76,7 @@ Details on the project are given in the instructions document below.  Project de
 
 ## Computing
 
-Please see information about computing resources here.  (TODO)
+Please see information about computing resources [here](https://gist.github.com/rivagore/7b3c0d49209728ebf097cb800391ec88).
 
 ## Resources
 
