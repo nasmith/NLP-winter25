@@ -7,7 +7,7 @@ M Jan 13
   : Read  [J&M 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf); [Assignment 1](https://nasmith.github.io/NLP-winter25/assets/docs/A1.pdf) posted
 
 W Jan 15
-: Neural networks
+: Neural networks ([slides](https://docs.google.com/presentation/d/1pukVpIUuliqPo5Lrn43Y0MbpVoF-LZIuDc0yukcXsHU/edit?usp=sharing))
   : Read [J&M 7 through 7.5](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
 Th Jan 16
