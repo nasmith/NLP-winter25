@@ -38,7 +38,7 @@ Additional notes:
 
 ## Deliverables and Deadlines
 
-At each checkpoint, you will turn in all source code and an executable program or script. Please sign up for your groups and submit your checkpoints on Canvas. When submitting your project, please follow the instructions and specifications in this \href{https://github.com/vzhong/cse447-project}{GitHub repo}. The checkpoints are as follows; the \textbf{deadlines for each checkpoint are shown on the \href{https://nasmith.github.io/NLP-winter25/calendar/}{course calendar}}.
+At each checkpoint, you will turn in all source code and an executable program or script. Please sign up for your groups and submit your checkpoints on Canvas. When submitting your project, please follow the instructions and specifications in this [GitHub repo](https://github.com/harshita-chopra/cse447-project/). The checkpoints are as follows; the \textbf{deadlines for each checkpoint are shown on the [course calendar](https://nasmith.github.io/NLP-winter25/calendar/)}.
 
 
 1. **Around week 4**.
@@ -70,7 +70,7 @@ By default, all members of your team will share the same grade, counted out of 5
 
 ## Individual Report
 
-Students in this course are expected to work together professionally, overcoming the inevitable challenges that arise in the course of a team project.  We recognize that, occasionally, team members behave unreasonably.  To help us navigate situations where you feel a shared grade would be unfair, we invite you to submit individual updates on your team's progress at any time during the quarter using [this form](https://forms.gle/XMzbD9tkhZ5qEcvS8).  
+Students in this course are expected to work together professionally, overcoming the inevitable challenges that arise in the course of a team project.  We recognize that, occasionally, team members behave unreasonably.  To help us navigate situations where you feel a shared grade would be unfair, we invite you to submit individual updates on your team's progress at any time during the quarter using [this form](https://forms.gle/WhCPCS2pWL5291n3A).  
 
 ## Data Statement
 
