@@ -18,7 +18,7 @@ M Jan 20
   : [Assignment 2](../assets/docs/A2.pdf) posted
 
 W Jan 22
-: Classification tasks and data
+: Classification tasks and data ([slides](https://docs.google.com/presentation/d/1kx5h3hoj53ejSby1iVZdeBZpCIkrf81thVQqQbKZY04/edit?usp=sharing))
   : Read [J&M 4 intro, 4.7, 4.8](https://web.stanford.edu/~jurafsky/slp3/4.pdf) **[Assignment 1](../assets/docs/A1.pdf) due**{: .label .label-red }
 
 Th Jan 23
