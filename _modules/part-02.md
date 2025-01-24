@@ -22,4 +22,4 @@ W Jan 22
   : Read [J&M 4 intro, 4.7, 4.8](https://web.stanford.edu/~jurafsky/slp3/4.pdf) **[Assignment 1](../assets/docs/A1.pdf) due**{: .label .label-red }
 
 Th Jan 23
-: **Section**{: .label .label-purple }TBD (possibly review A1)
+: **Section**{: .label .label-purple } A2, word embeddings ([slides](https://docs.google.com/presentation/d/1ULZs2yO6Ami6nY1VnoApf8WZUl00hFfC/edit?usp=sharing))
