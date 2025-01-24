@@ -11,7 +11,7 @@ W Jan 15
   : Read [J&M 7 through 7.5](https://web.stanford.edu/~jurafsky/slp3/7.pdf)
 
 Th Jan 16
-: **Section**{: .label .label-purple }TBD (possibly discuss PyTorch)
+: **Section**{: .label .label-purple }Gradient Descent and Logistic Regression ([slides](https://docs.google.com/presentation/d/1vytGEHZze6IuiwQOCe9mAhAJ4IGmb8qM/edit?usp=sharing&ouid=103588863361589074077&rtpof=true&sd=true))
 
 M Jan 20
 : *Holiday; no lecture*
