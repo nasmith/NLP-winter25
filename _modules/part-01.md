@@ -12,4 +12,4 @@ W Jan 8
   : [J&M 14 intro, 14.1, 14.4](https://web.stanford.edu/~jurafsky/slp3/14.pdf)
 
 Th Jan 9
-: **Section**{: .label .label-purple } Assignment 0 ([slides] https://docs.google.com/presentation/d/1mzR7ZI716Sb4U7hwG7NOiNkVmcQRzbqw/edit?usp=sharing&ouid=103588863361589074077&rtpof=true&sd=true)
+: **Section**{: .label .label-purple } Assignment 0 ([slides] (https://docs.google.com/presentation/d/1mzR7ZI716Sb4U7hwG7NOiNkVmcQRzbqw/edit?usp=sharing&ouid=103588863361589074077&rtpof=true&sd=true))
