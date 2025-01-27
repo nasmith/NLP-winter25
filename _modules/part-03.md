@@ -3,7 +3,7 @@ title: Segmenting text
 ---
 
 M Jan 27
-: Data-driven segmentation of text
+: Data-driven segmentation of text; guest lecture from [Alisa Liu](https://alisawuffles.github.io/) ([slides](../assets/docs/tokenization-Alisa-2025-01-27.pdf))
   : Read  [J&M 2 through 2.6](https://web.stanford.edu/~jurafsky/slp3/2.pdf);  **project checkpoint 1**{: .label .label-red }
 
 W Jan 29
