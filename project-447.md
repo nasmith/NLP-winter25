@@ -70,7 +70,7 @@ By default, all members of your team will share the same grade, counted out of 5
 
 ## Individual Report
 
-Students in this course are expected to work together professionally, overcoming the inevitable challenges that arise in the course of a team project.  We recognize that, occasionally, team members behave unreasonably.  To help us navigate situations where you feel a shared grade would be unfair, we invite you to submit individual updates on your team's progress at any time during the quarter using [this form](https://forms.gle/WhCPCS2pWL5291n3A).  
+Students in this course are expected to work together professionally, overcoming the inevitable challenges that arise in the course of a team project.  We recognize that, occasionally, team members behave unreasonably.  To help us navigate situations where you feel a shared grade would be unfair, we invite you to submit individual updates on your team's progress at any time during the quarter using [this form](https://forms.gle/XMzbD9tkhZ5qEcvS8).  
 
 ## Data Statement
 
