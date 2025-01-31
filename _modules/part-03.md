@@ -11,4 +11,4 @@ W Jan 29
   : Read [Bender ch. 1 and 2](https://drive.google.com/file/d/14Cz2ajTanHGXWAisRg7B8Wbmg0DOXT2x/view?usp=sharing); **[Assignment 2](../assets/docs/A2.pdf) due**{: .label .label-red }
 
 Th Jan 30
-: **Section**{: .label .label-purple }Morphology and Tokenization
+: **Section**{: .label .label-purple }Morphology and Tokenization ([slides](https://docs.google.com/presentation/d/1Qi_6nfQwkgQvWrX3XPZyCMe1iPXe8NHE/edit?usp=sharing&ouid=103588863361589074077&rtpof=true&sd=true))
