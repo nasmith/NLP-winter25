@@ -3,7 +3,7 @@ title: Output-focused NLP -- generating text
 ---
 
 W Feb 5
-: Language models 
+: Language models ([slides](https://docs.google.com/presentation/d/1dPFziDMAgZjJ8MQYchEptSkuOu20PSKjZUeVuq5piXs/edit?usp=sharing)) 
   : Read  [J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf) 
   
 Th Feb 6
