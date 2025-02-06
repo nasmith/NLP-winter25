@@ -7,7 +7,7 @@ W Feb 5
   : Read  [J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf) 
   
 Th Feb 6
-: **Section**{: .label .label-purple }TBD
+: **Section**{: .label .label-purple }([slides](https://docs.google.com/presentation/d/1WMsiKQMfxgntjEg_f2RIMAwBunf4PAfO/edit?usp=sharing&ouid=103588863361589074077&rtpof=true&sd=true))
 
 M Feb 10
 : Language models, continued
