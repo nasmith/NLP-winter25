@@ -11,7 +11,8 @@ Th Feb 6
 
 M Feb 10
 : Language models, continued
-  : [Assignment 4](..assets/docs/A4.pdf) posted; **Project checkpoint 2**{: .label .label-red }
+ : Read  [J&M 7.6-7.7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) and [J&M chapter 8 through 8.7](https://web.stanford.edu/~jurafsky/slp3/8.pdf) 
+ : [Assignment 4](..assets/docs/A4.pdf) posted; **Project checkpoint 2**{: .label .label-red }
 
 W Feb 12
 : Sequence-to-sequence tasks
