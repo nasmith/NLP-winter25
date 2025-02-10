@@ -15,8 +15,8 @@ M Feb 10
  : [Assignment 4](..assets/docs/A4.pdf) posted; **Project checkpoint 2**{: .label .label-red }
 
 W Feb 12
-: Sequence-to-sequence tasks
-  : Read [J&M 13 through 13.3](https://web.stanford.edu/~jurafsky/slp3/13.pdf); **[Assignment 3](../assets/docs/A3.pdf) due**{: .label .label-red }
+: Machine translation, the canonical sequence-to-sequence task
+  : Read [J&M 13, skipping 13.4](https://web.stanford.edu/~jurafsky/slp3/13.pdf); **[Assignment 3](../assets/docs/A3.pdf) due**{: .label .label-red }
 
 Th Feb 13
 : **Section**{: .label .label-purple }TBD (possibly review A3)
