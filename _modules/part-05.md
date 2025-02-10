@@ -12,7 +12,7 @@ Th Feb 6
 M Feb 10
 : Language models, continued ([slides](https://docs.google.com/presentation/d/1ZLWV1XGYGwvh6jQR4sJamiIffaie7yIvjdg-r2HAmpA/edit?usp=sharing))
  : Read  [J&M 7.6-7.7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) and [J&M chapter 8 through 8.7](https://web.stanford.edu/~jurafsky/slp3/8.pdf) 
- : [Assignment 4](..assets/docs/A4.pdf) posted; **Project checkpoint 2**{: .label .label-red }
+ : [Assignment 4](../assets/docs/A4.pdf) posted; **Project checkpoint 2**{: .label .label-red }
 
 W Feb 12
 : Machine translation, the canonical sequence-to-sequence task ([slides](https://docs.google.com/presentation/d/12Wi8PR1578Up4tFcrjSiq2psP6dNZhoghdVVXJcf7QU/edit?usp=sharing))
