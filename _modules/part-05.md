@@ -15,7 +15,7 @@ M Feb 10
  : [Assignment 4](..assets/docs/A4.pdf) posted; **Project checkpoint 2**{: .label .label-red }
 
 W Feb 12
-: Machine translation, the canonical sequence-to-sequence task
+: Machine translation, the canonical sequence-to-sequence task ([slides](https://docs.google.com/presentation/d/12Wi8PR1578Up4tFcrjSiq2psP6dNZhoghdVVXJcf7QU/edit?usp=sharing))
   : Read [J&M 13, skipping 13.4](https://web.stanford.edu/~jurafsky/slp3/13.pdf); **[Assignment 3](../assets/docs/A3.pdf) due**{: .label .label-red }
 
 Th Feb 13
