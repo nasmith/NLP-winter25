@@ -10,7 +10,7 @@ Th Feb 6
 : **Section**{: .label .label-purple }Assignments 3 and Vector Embeddings ([slides](https://docs.google.com/presentation/d/1WMsiKQMfxgntjEg_f2RIMAwBunf4PAfO/edit?usp=sharing&ouid=103588863361589074077&rtpof=true&sd=true))
 
 M Feb 10
-: Language models, continued
+: Language models, continued ([slides](https://docs.google.com/presentation/d/1ZLWV1XGYGwvh6jQR4sJamiIffaie7yIvjdg-r2HAmpA/edit?usp=sharing))
  : Read  [J&M 7.6-7.7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) and [J&M chapter 8 through 8.7](https://web.stanford.edu/~jurafsky/slp3/8.pdf) 
  : [Assignment 4](..assets/docs/A4.pdf) posted; **Project checkpoint 2**{: .label .label-red }
 
