@@ -25,7 +25,7 @@ M Feb 17
 : *Holiday; no lecture*
 
 W Feb 19
-: Attention and transformers
+: Attention and transformers ([slides](https://docs.google.com/presentation/d/1lgptlILFobuOLP9NHWHseys5t1Alw4kCGGmX5Kl2IKA/edit?usp=sharing))
   : Read [J&M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf); **[Assignment 4](../assets/docs/A4.pdf) due**{: .label .label-red }
 
 Th Feb 20
