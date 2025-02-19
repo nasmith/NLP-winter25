@@ -29,7 +29,7 @@ W Feb 19
   : Read [J&M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf); **[Assignment 4](../assets/docs/A4.pdf) due**{: .label .label-red }
 
 Th Feb 20
-: **Section**{: .label .label-purple }TBD (possibly review A4)
+: **Section**{: .label .label-purple }Assignment 4 and Transformers ([slides](https://docs.google.com/presentation/d/1vojwz03wevtYLA3sG_Fa83QOEASOIclx/edit?usp=sharing&ouid=103588863361589074077&rtpof=true&sd=true))
 
 M Feb 24
 : Decoding
