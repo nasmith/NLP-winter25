@@ -19,7 +19,7 @@ W Feb 12
   : Read [J&M 13, skipping 13.4](https://web.stanford.edu/~jurafsky/slp3/13.pdf); **[Assignment 3](../assets/docs/A3.pdf) due**{: .label .label-red }
 
 Th Feb 13
-: **Section**{: .label .label-purple }TBD (possibly review A3)
+: **Section**{: .label .label-purple }Machine Translation ([slides](https://docs.google.com/presentation/d/1u03v0_mOs5e2eJEu0DiitEEL0c9q6GL2/edit?usp=sharing&ouid=103588863361589074077&rtpof=true&sd=true))
 
 M Feb 17
 : *Holiday; no lecture*
@@ -29,7 +29,7 @@ W Feb 19
   : Read [J&M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf);
 
 Th Feb 20
-: **Section**{: .label .label-purple }TBD (possibly review A4)
+: **Section**{: .label .label-purple }Assignment 4 and Transformers ([slides](https://docs.google.com/presentation/d/1vojwz03wevtYLA3sG_Fa83QOEASOIclx/edit?usp=sharing&ouid=103588863361589074077&rtpof=true&sd=true))
 
 F Feb 21
 : (No lecture)
