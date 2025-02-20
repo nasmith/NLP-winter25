@@ -3,15 +3,15 @@ title: Output-focused NLP -- generating text
 ---
 
 W Feb 5
-: Language models ([slides](https://docs.google.com/presentation/d/1dPFziDMAgZjJ8MQYchEptSkuOu20PSKjZUeVuq5piXs/edit?usp=sharing)) 
-  : Read  [J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf) 
+: Language models ([slides](https://docs.google.com/presentation/d/1dPFziDMAgZjJ8MQYchEptSkuOu20PSKjZUeVuq5piXs/edit?usp=sharing))
+  : Read  [J&M 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
   
 Th Feb 6
 : **Section**{: .label .label-purple }Assignments 3 and Vector Embeddings ([slides](https://docs.google.com/presentation/d/1WMsiKQMfxgntjEg_f2RIMAwBunf4PAfO/edit?usp=sharing&ouid=103588863361589074077&rtpof=true&sd=true))
 
 M Feb 10
 : Language models, continued ([slides](https://docs.google.com/presentation/d/1ZLWV1XGYGwvh6jQR4sJamiIffaie7yIvjdg-r2HAmpA/edit?usp=sharing))
- : Read  [J&M 7.6-7.7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) and [J&M chapter 8 through 8.7](https://web.stanford.edu/~jurafsky/slp3/8.pdf) 
+ : Read  [J&M 7.6-7.7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) and [J&M chapter 8 through 8.7](https://web.stanford.edu/~jurafsky/slp3/8.pdf)
  : [Assignment 4](../assets/docs/A4.pdf) posted; **Project checkpoint 2**{: .label .label-red }
 
 W Feb 12
@@ -26,10 +26,14 @@ M Feb 17
 
 W Feb 19
 : Attention and transformers
-  : Read [J&M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf); **[Assignment 4](../assets/docs/A4.pdf) due**{: .label .label-red }
+  : Read [J&M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf);
 
 Th Feb 20
 : **Section**{: .label .label-purple }TBD (possibly review A4)
+
+F Feb 21
+: (No lecture)
+  : **[Assignment 4](../assets/docs/A4.pdf) due**{: .label .label-red }
 
 M Feb 24
 : Decoding
@@ -37,7 +41,7 @@ M Feb 24
   
 W Feb 26
 : Scaling up
-  : Read [J&M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf) 
+  : Read [J&M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Th Feb 27
 : **Section**{: .label .label-purple }TBD
