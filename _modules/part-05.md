@@ -25,7 +25,7 @@ M Feb 17
 : *Holiday; no lecture*
 
 W Feb 19
-: Attention and transformers
+: Attention and transformers ([slides](https://docs.google.com/presentation/d/1lgptlILFobuOLP9NHWHseys5t1Alw4kCGGmX5Kl2IKA/edit?usp=sharing))
   : Read [J&M 9](https://web.stanford.edu/~jurafsky/slp3/9.pdf);
 
 Th Feb 20
@@ -36,7 +36,7 @@ F Feb 21
   : **[Assignment 4](../assets/docs/A4.pdf) due**{: .label .label-red }
 
 M Feb 24
-: Decoding
+: Decoding ([slides](https://docs.google.com/presentation/d/1Et6QLqkXJ2RuWRnqap9UsCcZ7n_jXNDleJLlU1wBtoI/edit?usp=sharing))
   : Read [J&M 13.4](https://web.stanford.edu/~jurafsky/slp3/13.pdf); [Assignment 5](..assets/docs/A5.pdf) posted
   
 W Feb 26
