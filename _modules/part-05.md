@@ -40,7 +40,7 @@ M Feb 24
   : Read [J&M 13.4](https://web.stanford.edu/~jurafsky/slp3/13.pdf); [Assignment 5](..assets/docs/A5.pdf) posted
   
 W Feb 26
-: Scaling up; guest lecture from [Weijia Shi](https://weijiashi.notion.site/)
+: Scaling up; guest lecture from [Weijia Shi](https://weijiashi.notion.site/) ([slides](../assets/docs/scaling-Weijia-2025-02-26.pdf))
   : Read [J&M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Th Feb 27
