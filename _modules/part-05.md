@@ -47,12 +47,12 @@ Th Feb 27
 : **Section**{: .label .label-purple }TBD
 
 M Mar 3
-: Prompting
-  : Read [J&M 12.1](https://web.stanford.edu/~jurafsky/slp3/12.pdf) and [J&M 14.2 and 14.2](https://web.stanford.edu/~jurafsky/slp3/14.pdf); [Assignment 6](..assets/docs/A6.pdf) posted; **Project checkpoint 3**{: .label .label-red } (for CSE 447)
+: Prompting ([slides](https://docs.google.com/presentation/d/1ZI92PgpOMoeoKreQc8ig2t8tnM2LMg5mIu4SjrmlenY/edit?usp=sharing))
+  : Read [J&M 12.1](https://web.stanford.edu/~jurafsky/slp3/12.pdf); [Assignment 6](..assets/docs/A6.pdf) posted; **Project checkpoint 3**{: .label .label-red } (for CSE 447)
   
 W Mar 5
 : Finetuning, instructions, preferences
-  : Read [J&M 12](https://web.stanford.edu/~jurafsky/slp3/12.pdf) and optionally [J&M 11.4](https://web.stanford.edu/~jurafsky/slp3/11.pdf);  **[Assignment 5](../assets/docs/A5.pdf) due**{: .label .label-red }
+  : Read [J&M 12](https://web.stanford.edu/~jurafsky/slp3/12.pdf), and [J&M 14.3](https://web.stanford.edu/~jurafsky/slp3/14.pdf), and optionally [J&M 11.4](https://web.stanford.edu/~jurafsky/slp3/11.pdf);  **[Assignment 5](../assets/docs/A5.pdf) due**{: .label .label-red }
 
 Th Mar 6
 : **Section**{: .label .label-purple }TBD (possibly review A5)
