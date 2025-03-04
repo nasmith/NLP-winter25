@@ -44,11 +44,11 @@ W Feb 26
   : Read [J&M 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)
 
 Th Feb 27
-: **Section**{: .label .label-purple }TBD
+: **Section**{: .label .label-purple }Assignment 5 and Encoder-Decoder vs Decoder Models ([slides](https://docs.google.com/presentation/d/1bAMLOZdTU4c0KnAVppTJfPtI4y0hVFKq/edit?usp=sharing&ouid=117086370865091197592&rtpof=true&sd=true))
 
 M Mar 3
 : Prompting ([slides](https://docs.google.com/presentation/d/1ZI92PgpOMoeoKreQc8ig2t8tnM2LMg5mIu4SjrmlenY/edit?usp=sharing))
-  : Read [J&M 12.1](https://web.stanford.edu/~jurafsky/slp3/12.pdf); [Assignment 6](..assets/docs/A6.pdf) posted; **Project checkpoint 3**{: .label .label-red } (for CSE 447)
+  : Read [J&M 12.1](https://web.stanford.edu/~jurafsky/slp3/12.pdf); [Assignment 6](../assets/docs/A6.pdf) posted; **Project checkpoint 3**{: .label .label-red } (for CSE 447)
   
 W Mar 5
 : Finetuning, instructions, preferences
