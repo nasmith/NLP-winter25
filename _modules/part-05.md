@@ -55,4 +55,4 @@ W Mar 5
   : Read [J&M 12](https://web.stanford.edu/~jurafsky/slp3/12.pdf), and [J&M 14.3](https://web.stanford.edu/~jurafsky/slp3/14.pdf), and optionally [J&M 11.4](https://web.stanford.edu/~jurafsky/slp3/11.pdf);  **[Assignment 5](../assets/docs/A5.pdf) due**{: .label .label-red }
 
 Th Mar 6
-: **Section**{: .label .label-purple }TBD (possibly review A5)
+: **Section**{: .label .label-purple }Assignment 5 and Prompt Engineering ([slides](https://docs.google.com/presentation/d/1NjZVx6lvcToSQnQ4TOvuOSJ_ijhWTlek/edit?usp=sharing&ouid=117086370865091197592&rtpof=true&sd=true))
